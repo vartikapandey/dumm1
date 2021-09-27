@@ -1,2 +1,2 @@
 # dumm1
-basic CI pipeline
+basic CI pipeline for demo
