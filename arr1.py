@@ -10,7 +10,7 @@ arr = array('i', [12, 22, 1, 92, 11, 12, 12, 43, 76, 10])
 arr.insert(5, 23)
 
 #insert element at index 1
-arr.insert(1, 45)
+arr.insert(1, 46)
 
 #---Deletion---
 #delete element 22
