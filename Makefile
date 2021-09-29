@@ -1,3 +1,4 @@
+all:build
 setenv:
 	set PATH=C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python39;%PATH%
 run_prog:
